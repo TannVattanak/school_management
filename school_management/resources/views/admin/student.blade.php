@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>student</h1>
+    <h1>lol</h1>
 </body>
 </html>
